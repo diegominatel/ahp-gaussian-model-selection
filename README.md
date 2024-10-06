@@ -16,4 +16,4 @@ The challenge of developing impartial models that minimize the propagation of un
 
 ## Full text of the paper
 
-Access the full text of this paper at: <will be available soon>
+Access the full text of this paper at: will be available soon
