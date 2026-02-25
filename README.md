@@ -7,7 +7,14 @@ This repository is the official implementation of the paper entitled "AHP–Gaus
 If you use any part of this code in your research, please cite it using the following BibTex entry:
 
 ```latex
-will be available soon
+@inproceedings{minatel2024ahp,
+  title={AHP-Gaussian To Enhance Model Selection Based On Multiple Fairness Criteria},
+  author={Minatel, Diego and dos Santos, N{\'\i}colas Roque and Ferreira, Vin{\'\i}cius and Modesto, Mateus},
+  booktitle={Encontro Nacional de Intelig{\^e}ncia Artificial e Computacional (ENIAC)},
+  pages={589--600},
+  year={2024},
+  organization={SBC}
+}
 ```
 
 ## Abstract
@@ -16,4 +23,4 @@ The challenge of developing impartial models that minimize the propagation of un
 
 ## Full text of the paper
 
-Access the full text of this paper at: will be available soon
+Access the full text of this paper at: https://sol.sbc.org.br/index.php/eniac/article/view/33827
